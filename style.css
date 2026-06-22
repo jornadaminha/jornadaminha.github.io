@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+* {
+    color: #fffef6;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 300%;
+}
+.subtitle, .subtitle-gray {
+    font-size: 110%;
+}
+.subtitle-gray {
+    color: gray;
+}
+
+.project {
+    width: 100%;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+}
+.project-img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: rgb(0, 0, 255);
+    background-color: rgb(172, 172, 172);
+}
